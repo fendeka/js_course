@@ -1,0 +1,37 @@
+html,body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Roboto", sans-serif
+}
+
+#ava{
+    width: 100%;
+}
+.w3-content, .w3-margin-top{
+    max-width:1400px;
+}
+#oop_skills{
+    width:75%;
+}
+#php_skills{
+    width:75%;
+}
+#javascript_skills{
+    width:75%;
+}
+#mysql_skills{
+    width:75%;
+}
+#css_skills{
+    width:75%;
+}
+#russian_skills{
+    height: 24px;
+    width: 75%;
+}
+#english_skills{
+    height:24px;
+    width:75%;
+}
+#ukr_skills{
+    height:24px;
+    width:100%;
+}
